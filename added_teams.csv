@@ -25,7 +25,7 @@ Cal State Fullerton,ncaa,#00274C,#DC8218,NA,NA,Big West,Cal State Fullerton,NA,C
 California,ncaa,#003262,#FDB515,#3B7EA1,#C4820E,Pac 12,California,NA,California Golden Bears,http://content.sportslogos.net/logos/30/630/thumbs/7456.gif,
 Canisius,ncaa,#0C2340,#FFBA00,NA,NA,MAAC,Canisius,NA,Canisius Golden Griffins,http://content.sportslogos.net/logos/30/632/thumbs/63223182006.gif,
 Central Michigan Chippewas,ncaa,#6A0032,#FFC82E,NA,NA,MAC,Central Michigan,Chippewas,Central Michigan Chippewas,http://content.sportslogos.net/logos/30/636/thumbs/6843.gif,
-Charlotte,ncaa,#046A38,#B9975B,#27251F,NA,C-USA,Charlotte,NA,Charlotte 49ers,http://content.sportslogos.net/logos/30/639/thumbs/2447.gif,
+Charlotte,ncaa,#046A38,#B9975B,#27251F,NA,C-USA,Charlotte,NA,Charlotte 49ers,http://content.sportslogos.net/logos/30/639/thumbs/2447.gif,https://content.sportslogos.net/logos/30/639/thumbs/63995982006.gif
 Chicago State Cougars,ncaa,#006666,#000000,NA,NA,WAC,Chicago State,Cougars,Chicago State Cougars,http://content.sportslogos.net/logos/30/641/thumbs/64119342009.gif,
 Cincinnati Bearcats,ncaa,#E00122,#000000,NA,NA,AAC,Cincinnati,Bearcats,Cincinnati Bearcats,http://content.sportslogos.net/logos/30/642/thumbs/7482.gif,
 Clemson Tigers,ncaa,#F56600,#522D80,NA,NA,ACC,Clemson,Tigers,Clemson Tigers,http://content.sportslogos.net/logos/30/643/thumbs/2451.gif,
@@ -110,11 +110,11 @@ Massachusetts,ncaa,#971B2F,#572932,#B1B3B3,#000000,A-10,Massachusetts,NA,Massach
 Memphis Tigers,ncaa,#003087,#898D8D,NA,NA,AAC,Memphis,Tigers,Memphis Tigers,http://content.sportslogos.net/logos/32/746/thumbs/pep4eclqlq0phflhok70y3u41.gif,
 Miami (FL),ncaa,#F47321,#005030,#FFFFFF,NA,ACC,Miami,(FL),Miami Hurricanes,http://content.sportslogos.net/logos/32/748/thumbs/2848.gif,https://content.sportslogos.net/logos/32/748/thumbs/74813422019.gif
 Miami (OH),ncaa,#B61E2E,#000000,NA,NA,MAC,Miami (OH),(OH),Miami (Ohio) Redhawks,http://content.sportslogos.net/logos/32/749/thumbs/74994712014.gif,https://content.sportslogos.net/logos/32/749/thumbs/4686.gif
-Michigan State Spartans,ncaa,#18453B,#FFFFFF,NA,NA,Big 10,Michigan State,Spartans,Michigan State Spartans,http://content.sportslogos.net/logos/32/751/thumbs/w7n08iftauae3h6rhueh.gif,
-Michigan Wolverines,ncaa,#00274C,#FFCB05,NA,NA,Big 10,Michigan,Wolverines,Michigan Wolverines,http://content.sportslogos.net/logos/32/750/thumbs/75075012012.gif,
+Michigan State Spartans,ncaa,#18453B,#FFFFFF,NA,NA,Big 10,Michigan State,Spartans,Michigan State Spartans,http://content.sportslogos.net/logos/32/751/thumbs/w7n08iftauae3h6rhueh.gif,https://content.sportslogos.net/logos/32/751/thumbs/75199792016.gif
+Michigan Wolverines,ncaa,#00274C,#FFCB05,NA,NA,Big 10,Michigan,Wolverines,Michigan Wolverines,http://content.sportslogos.net/logos/32/750/thumbs/75075012012.gif,https://content.sportslogos.net/logos/32/750/thumbs/75072131897.gif
 Middle Tennessee,ncaa,#0066CC,#69B3E7,NA,NA,C-USA,Middle Tennessee,NA,Middle Tennessee Blue Raiders,http://content.sportslogos.net/logos/32/752/thumbs/75235561998.gif,
 Milwaukee,ncaa,#FFBD00,#CCCCCC,NA,NA,Horizon,Milwaukee,NA,Wisconsin-Milwaukee Panthers,http://content.sportslogos.net/logos/35/915/thumbs/91523812011.gif,
-Minnesota Golden Gophers,ncaa,#7A0019,#FFCC33,NA,NA,Big 10,Minnesota,Golden Gophers,Minnesota Golden Gophers,http://content.sportslogos.net/logos/32/753/thumbs/r8cdw98hpgz0sevha7ejthble.gif,
+Minnesota Golden Gophers,ncaa,#7A0019,#FFCC33,NA,NA,Big 10,Minnesota,Golden Gophers,Minnesota Golden Gophers,http://content.sportslogos.net/logos/32/753/thumbs/r8cdw98hpgz0sevha7ejthble.gif,https://content.sportslogos.net/logos/32/753/thumbs/75338911986.gif
 Mississippi State Bulldogs,ncaa,#660000,#FFFFFF,#CCCCCC,#75787B,SEC,Mississippi State,Bulldogs,Mississippi State Bulldogs,http://content.sportslogos.net/logos/32/755/thumbs/91xsfe9nvvedeghyqi4sx161k.gif,
 Missouri State Bears,ncaa,#5E0009,#000000,NA,NA,MVC,Missouri State,Bears,Missouri State Bears,http://content.sportslogos.net/logos/32/4974/thumbs/497490162006.gif,
 Missouri Tigers,ncaa,#000000,#F1B82D,NA,NA,SEC,Missouri,Tigers,Missouri Tigers,http://content.sportslogos.net/logos/32/757/thumbs/70yox0z4pkkwwedhxgo92kp9f.gif,
@@ -122,7 +122,7 @@ Monmouth Hawks,ncaa,#041E42,#53565A,NA,NA,MAAC,Monmouth,Hawks,Monmouth Hawks,htt
 Montana Grizzlies,ncaa,#999999,#999999,NA,NA,Big Sky,Montana,Grizzlies,Montana Grizzlies,http://content.sportslogos.net/logos/32/759/thumbs/8w2u1hfnzaaqrqh0wy6hmgeh9.gif,
 Montana State Bobcats,ncaa,#B9975B,#B9975B,NA,NA,Big Sky,Montana State,Bobcats,Montana State Bobcats,http://content.sportslogos.net/logos/32/760/thumbs/76067842013.gif,
 Navy,ncaa,#00205B,#C5B783,NA,NA,Patriot,Navy,NA,Navy Midshipmen,http://content.sportslogos.net/logos/33/765/thumbs/udqt7nirahbtdehp0gn5pi0f6.gif,
-NC State,ncaa,#CC0000,#000000,#FFFFFF,NA,ACC,NC State,NA,North Carolina State Wolfpack,http://content.sportslogos.net/logos/33/777/thumbs/77759072006.gif,
+NC State,ncaa,#CC0000,#000000,#FFFFFF,NA,ACC,NC State,NA,North Carolina State Wolfpack,http://content.sportslogos.net/logos/33/777/thumbs/77759072006.gif,https://content.sportslogos.net/logos/33/777/thumbs/jcmn1syys6pch785fhnb.gif
 Nebraska,ncaa,#E41C38,#5F6A72,#000000,NA,Big 10,Nebraska,NA,Nebraska Cornhuskers,http://content.sportslogos.net/logos/33/766/thumbs/u5a0z147qunbzxwnec8ef7bkl.gif,
 Nevada,ncaa,#003366,#807F84,NA,NA,MWC,Nevada,NA,Nevada Wolf Pack,http://content.sportslogos.net/logos/33/767/thumbs/76753092008.gif,
 New Hampshire Wildcats,ncaa,#041E42,#BBBCBC,NA,NA,Am. East,New Hampshire,Wildcats,New Hampshire Wildcats,http://content.sportslogos.net/logos/33/768/thumbs/2864.gif,
@@ -131,7 +131,7 @@ New Mexico State Aggies,ncaa,#861F41,#97999B,#000000,NA,WAC,New Mexico State,Agg
 Niagara Purple Eagles,ncaa,#582C83,#FFFFFF,NA,NA,MAAC,Niagara,Purple Eagles,Niagara Purple Eagles,http://content.sportslogos.net/logos/33/772/thumbs/oi5inigc39oafmcd7f3fb7bhf.gif,
 NJIT,ncaa,#D22630,#071D49,#C1C6C8,NA,A-Sun,NJIT,NA,NJIT Highlanders,http://content.sportslogos.net/logos/33/2605/thumbs/2vggzg8fholnbv4umcp5h1459.gif,
 North Alabama,ncaa,#46166B,#DB9F11,#5F6062,NA,A-Sun,North Alabama,NA,North Alabama Lions,http://content.sportslogos.net/logos/33/4754/thumbs/475436650.gif,
-North Carolina,ncaa,#7BAFD4,#FFFFFF,#13294B,#000000,ACC,North Carolina,NA,North Carolina Tar Heels,http://content.sportslogos.net/logos/33/775/thumbs/77515392015.gif,
+North Carolina,ncaa,#7BAFD4,#FFFFFF,#13294B,#000000,ACC,North Carolina,NA,North Carolina Tar Heels,http://content.sportslogos.net/logos/33/775/thumbs/77515392015.gif,https://content.sportslogos.net/logos/33/775/thumbs/77594031983.gif
 North Dakota State Bison,ncaa,#0A5640,#FFC72A,NA,NA,Summit,North Dakota State,Bison,North Dakota State Bison,http://content.sportslogos.net/logos/33/781/thumbs/ffvn0mdlghiy8hegag754ji2l.gif,
 North Florida Ospreys,ncaa,#00246B,#D9D9D9,NA,NA,A-Sun,North Florida,Ospreys,UNF Ospreys,http://content.sportslogos.net/logos/35/4947/thumbs/494770022014.gif,
 North Texas Mean Green,ncaa,#00853E,#000000,NA,NA,C-USA,North Texas,Mean Green,North Texas Mean Green,http://content.sportslogos.net/logos/33/782/thumbs/78267462005.gif,
@@ -150,11 +150,11 @@ Old Dominion Monarchs,ncaa,#003057,#92C1E9,NA,NA,C-USA,Old Dominion,Monarchs,Old
 Ole Miss,ncaa,#CE1126,#14213D,#FFFFFF,NA,SEC,Ole Miss,Miss,Mississippi Rebels,http://content.sportslogos.net/logos/32/754/thumbs/75419761996.gif,
 Omaha,ncaa,#000000,#D71920,#636568,NA,Summit,Omaha,NA,Nebraska-Omaha Mavericks,http://content.sportslogos.net/logos/33/5049/thumbs/504963202011.gif,
 Oral Roberts Golden Eagles,ncaa,#002F60,#C5B783,#A28E2A,NA,Summit,Oral Roberts,Golden Eagles,Oral Roberts Golden Eagles,http://content.sportslogos.net/logos/33/796/thumbs/79690362017.gif,
-Oregon Ducks,ncaa,#154733,#FEE123,NA,NA,Pac 12,Oregon,Ducks,Oregon Ducks,http://content.sportslogos.net/logos/33/797/thumbs/by8dfvb6j89hs5nrvlb1ibx5e.gif,
+Oregon Ducks,ncaa,#154733,#FEE123,NA,NA,Pac 12,Oregon,Ducks,Oregon Ducks,http://content.sportslogos.net/logos/33/797/thumbs/by8dfvb6j89hs5nrvlb1ibx5e.gif,https://content.sportslogos.net/logos/33/797/thumbs/ehrrx1qjof2owakh79jq.gif
 Oregon State Beavers,ncaa,#DC4405,#000000,#FFFFFF,NA,Pac 12,Oregon State,Beavers,Oregon State Beavers,http://content.sportslogos.net/logos/33/798/thumbs/79813572013.gif,https://content.sportslogos.net/logos/33/798/thumbs/79836732006.gif
 Pacific,ncaa,#E35205,#231F20,#D86018,#949A90,WCC,Pacific,NA,Pacific Tigers,http://content.sportslogos.net/logos/33/799/thumbs/79969051999.gif,
 Penn,ncaa,#990000,#011F5B,NA,NA,Ivy,Penn,NA,Penn Quakers,http://content.sportslogos.net/logos/33/800/thumbs/wt412stspwyymg88xe74zav07.gif,
-Penn State,ncaa,#093162,#FFFFFF,NA,NA,Big 10,Penn State,NA,Penn State Nittany Lions,http://content.sportslogos.net/logos/33/801/thumbs/6g3sx3a2zxgt5z2vb10g.gif,
+Penn State,ncaa,#093162,#FFFFFF,NA,NA,Big 10,Penn State,NA,Penn State Nittany Lions,http://content.sportslogos.net/logos/33/801/thumbs/6g3sx3a2zxgt5z2vb10g.gif,https://content.sportslogos.net/logos/33/801/thumbs/1k9prruij590izix314f.gif
 Pepperdine Waves,ncaa,#00205C,#EE7624,NA,NA,WCC,Pepperdine,Waves,Pepperdine Waves,http://content.sportslogos.net/logos/33/802/thumbs/80222642010.gif,
 Pittsburgh Panthers,ncaa,#1C2957,#CDB87D,NA,NA,ACC,Pittsburgh,Panthers,Pittsburgh Panthers,http://content.sportslogos.net/logos/33/803/thumbs/80318662016.gif,
 Portland Pilots,ncaa,#1E1656,#5E6A71,NA,NA,WCC,Portland,Pilots,Portland Pilots,http://content.sportslogos.net/logos/33/804/thumbs/80428142014.gif,
@@ -188,7 +188,7 @@ South Carolina Gamecocks,ncaa,#73000A,#000000,NA,NA,SEC,South Carolina,Gamecocks
 South Dakota Coyotes,ncaa,#AD0000,#B4B4B4,#000000,NA,Summit,South Dakota,Coyotes,South Dakota Coyotes,http://content.sportslogos.net/logos/34/5037/thumbs/503737322011.gif,
 South Dakota State Jackrabbits,ncaa,#0033A0,#FFD100,NA,NA,Summit,South Dakota State,Jackrabbits,South Dakota State Jackrabbits,http://content.sportslogos.net/logos/34/836/thumbs/rx5rkctzeni2o4nxdsl4ftgw9.gif,
 South Florida Bulls,ncaa,#006747,#CFC493,NA,NA,AAC,South Florida,Bulls,South Florida Bulls,http://content.sportslogos.net/logos/34/837/thumbs/l3qg5gf3wu3cdrgvpee4.gif,
-Southern California Trojans,ncaa,#FFC72C,#990000,#FFC72C,NA,Pac 12,USC,Trojans,Southern California Trojans,http://content.sportslogos.net/logos/34/840/thumbs/84098311993.gif,
+Southern California Trojans,ncaa,#FFC72C,#990000,#FFC72C,NA,Pac 12,USC,Trojans,Southern California Trojans,http://content.sportslogos.net/logos/34/840/thumbs/84098311993.gif,https://content.sportslogos.net/logos/34/840/thumbs/84018801972.gif
 Southern Illinois,ncaa,#720000,#000000,NA,NA,MVC,Southern Illinois,NA,Southern Illinois Salukis,http://content.sportslogos.net/logos/34/841/thumbs/84134702019.gif,
 Southern Mississippi Golden Eagles,ncaa,#000000,#FFAB00,NA,NA,C-USA,Southern Mississippi,Golden Eagles,Southern Miss Golden Eagles,http://content.sportslogos.net/logos/34/843/thumbs/84360242015.gif,
 Southern Utah Thunderbirds,ncaa,#000000,#FFFFFF,NA,NA,Big Sky,Southern Utah,Thunderbirds,Southern Utah Thunderbirds,http://content.sportslogos.net/logos/34/844/thumbs/2636.gif,
@@ -232,11 +232,11 @@ Vermont Catamounts,ncaa,#154734,#8B5B29,#FFC72C,#C6AA76,Am. East,Vermont,Catamou
 Villanova Wildcats,ncaa,#00205B,#13B5EA,#8B634B,NA,Big East,Villanova,Wildcats,Villanova Wildcats,http://content.sportslogos.net/logos/35/897/thumbs/a28cvg370vfg03yepefh.gif,
 Virginia Cavaliers,ncaa,#232D4B,#F84C1E,#FFFFFF,NA,ACC,Virginia,Cavaliers,Virginia Cavaliers,http://content.sportslogos.net/logos/35/898/thumbs/7135.gif,
 Virginia Tech Hokies,ncaa,#630031,#CF4420,NA,NA,ACC,Virginia Tech,Hokies,Virginia Tech Hokies,http://content.sportslogos.net/logos/35/901/thumbs/gabem67h4rb7golayyr7qsole.gif,
-Wake Forest Demon Deacons,ncaa,#A67F31,#000000,NA,NA,ACC,Wake Forest,Demon Deacons,Wake Forest Demon Deacons,http://content.sportslogos.net/logos/35/903/thumbs/90361392007.gif,
+Wake Forest Demon Deacons,ncaa,#A67F31,#000000,NA,NA,ACC,Wake Forest,Demon Deacons,Wake Forest Demon Deacons,http://content.sportslogos.net/logos/35/903/thumbs/90361392007.gif,https://content.sportslogos.net/logos/35/903/thumbs/57d0636amp37lzzflha29tyha.gif
 Washington Huskies,ncaa,#4B2E83,#B7A57A,#85754D,NA,Pac 12,Washington,Huskies,Washington Huskies,http://content.sportslogos.net/logos/35/904/thumbs/yookgal4j29r36rx6fz3jug2p.gif,
 Washington State Cougars,ncaa,#981E32,#5E6A71,NA,NA,Pac 12,Washington State,Cougars,Washington State Cougars,http://content.sportslogos.net/logos/35/905/thumbs/2724.gif,
 Weber State Wildcats,ncaa,#A1A1A4,#130C0E,NA,NA,Big Sky,Weber State,Wildcats,Weber State Wildcats,http://content.sportslogos.net/logos/35/906/thumbs/zeuci9b1audg30shh2h2hjsqx.gif,
-West Virginia Mountaineers,ncaa,#002855,#EAAA00,NA,NA,Big 12,West Virginia,Mountaineers,West Virginia Mountaineers,http://content.sportslogos.net/logos/35/907/thumbs/90726501980.gif,
+West Virginia Mountaineers,ncaa,#002855,#EAAA00,NA,NA,Big 12,West Virginia,Mountaineers,West Virginia Mountaineers,http://content.sportslogos.net/logos/35/907/thumbs/90726501980.gif,https://content.sportslogos.net/logos/35/907/thumbs/90772412002.gif
 Western Illinois Leathernecks,ncaa,#663399,#FFCC00,NA,NA,Summit,Western Illinois,Leathernecks,Western Illinois Leathernecks,http://content.sportslogos.net/logos/35/908/thumbs/90857672007.gif,
 Western Kentucky Hilltoppers,ncaa,#C60C30,#1E1E1E,#A2A4A3,NA,C-USA,Western Kentucky,Hilltoppers,Western Kentucky Hilltoppers,http://content.sportslogos.net/logos/35/909/thumbs/45vahaduw2h85i3nqehdgn7xq.gif,
 Western Michigan Broncos,ncaa,#6C4023,#B5A167,#AAA8AA,#000000,MAC,Western Michigan,Broncos,Western Michigan Broncos,http://content.sportslogos.net/logos/35/910/thumbs/91055312016.gif,
@@ -256,5 +256,5 @@ Univeristy of Louisiana Monroe,ncaa,#840029,#FDB913,NA,NA,NA,UL Monroe,NA,NA,htt
 Univeristy of Southern Mississippi,ncaa,black,#FFAB00,NA,NA,NA,Southern Miss,NA,NA,https://content.sportslogos.net/logos/34/843/thumbs/84312622015.gif,
 Univeristy of Central Florida,ncaa,#BA9B37,black,NA,NA,NA,UCF,NA,NA,https://content.sportslogos.net/logos/30/635/thumbs/63548652017.gif,
 College of William & Mary,ncaa,#115740,#F0B323,NA,NA,NA,William & Mary,NA,NA,https://content.sportslogos.net/logos/35/912/thumbs/91255812022.gif,
-University of Hawaii,ncaa,#024731,#C8C8C8,NA,NA,NA,Hawai'i,NA,NA,https://content.sportslogos.net/logos/31/696/thumbs/2494.gif,
+University of Hawaii,ncaa,#024731,#C8C8C8,NA,NA,NA,Hawai'i,NA,NA,https://content.sportslogos.net/logos/31/696/thumbs/2494.gif,https://content.sportslogos.net/logos/31/696/thumbs/xxge4hqatueommearg7x.gif
 James Madison University,ncaa,#450084,#CBB677,NA,NA,NA,James Madison,NA,NA,https://content.sportslogos.net/logos/32/717/thumbs/71751492017.gif,https://content.sportslogos.net/logos/32/717/thumbs/71767131986.gif
